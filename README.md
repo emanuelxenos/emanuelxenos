@@ -7,8 +7,8 @@ Tenho 2 técnicos em desenvolvimento de sistemas pelo estado de Pernambuco
 Atualmente estou trabalhando para eu mesmo, como criador de conteúdo, design, e developer...
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelxenos&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelxenos&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanuelxenos&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelxenos&layout=compact&theme=tokyonight"/>
 </div>
 
 ## 😊 Let's get connected
