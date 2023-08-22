@@ -13,9 +13,9 @@ Atualmente estou trabalhando para eu mesmo, como criador de conteúdo, design, e
 
 ## 😊 Let's get connected
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/983441066613162054)
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emanuelxenos)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-nunes-cb/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.tiktok.com/@emanuelxenos)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EmanuelXenosOficial/)
 
@@ -30,3 +30,4 @@ Todas as tecnlogias aqui mostradas, são que eu estudei, e pratiquei em algum mo
   <img align="center" alt="xenos_flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
 
+![Snake animation](https://github.com/emanuelxenos/emanuelxenos/blob/output/github-contribution-grid-snake.svg)
