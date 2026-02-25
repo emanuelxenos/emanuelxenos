@@ -31,5 +31,6 @@ Todas as tecnlogias aqui mostradas, são que eu estudei, e pratiquei em algum mo
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/emanuelxenos/emanuelxenos/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/emanuelxenos/emanuelxenos/output/github-contribution-grid-snake.gif)
+
 
