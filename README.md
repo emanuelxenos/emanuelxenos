@@ -17,7 +17,9 @@ Atualmente estou trabalhando para eu mesmo, como criador de conteúdo, design, e
 [![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@emanuelxenos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-nunes-cb/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.tiktok.com/@emanuelxenos)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EmanuelXenosOficial/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/EmanuelXenosOficial/)  
+[![Landing Page](https://img.shields.io/badge/Landing%20Page-Online-brightgreen)](https://emanuelxenos.github.io/land-page/)
+
 
 ## 🛠Technologies and tools used:
 Todas as tecnlogias aqui mostradas, são que eu estudei, e pratiquei em algum momento. Sempre gostei de sair da zona de conforto, e me aventurar em coisas novas, pois sou apaixonado por tecnologia.
@@ -28,8 +30,9 @@ Todas as tecnlogias aqui mostradas, são que eu estudei, e pratiquei em algum mo
   <img align="center" alt="xenos_php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="xenos_codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"/>
   <img align="center" alt="xenos_flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="xenos_go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 </div>
-
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/emanuelxenos/emanuelxenos/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
